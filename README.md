@@ -1,3 +1,3 @@
-# ReactTutorial1
+# ReactTutorials
 
-My first exercise to set up an React app, using the instructions on the React site tutorial page.
+Tutorials for setting up React and understanding how it works.
